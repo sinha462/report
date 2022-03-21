@@ -1,0 +1,53 @@
+.e1_805 { 
+	overflow:hidden;
+}
+.e1_805 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e3_714 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:375px;
+	height:812px;
+	position:absolute;
+	left:533px;
+	top:105.923828125px;
+}
+.e3_715 { 
+	background-color:rgba(187.00000405311584, 187.00000405311584, 187.00000405311584, 1);
+	width:291.5969543457031px;
+	height:267.986328125px;
+	position:absolute;
+	left:42px;
+	top:153.28076171875px;
+	border-top-left-radius:20.833332061767578px;
+	border-top-right-radius:20.833332061767578px;
+	border-bottom-left-radius:20.833332061767578px;
+	border-bottom-right-radius:20.833332061767578px;
+}
+.e3_716 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:99.90849304199219px;
+	height:40.29917907714844px;
+	position:absolute;
+	left:238.0915069580078px;
+	top:449.296875px;
+	border-top-left-radius:20.14958953857422px;
+	border-top-right-radius:20.14958953857422px;
+	border-bottom-left-radius:20.14958953857422px;
+	border-bottom-right-radius:20.14958953857422px;
+}
+.e3_722 { 
+	color:rgba(0, 68.00000354647636, 69.00000348687172, 1);
+	width:184.37498474121094px;
+	height:33.33333206176758px;
+	position:absolute;
+	left:96.9296875px;
+	top:61.33349609375px;
+	font-family:Futura PT;
+	text-align:left;
+	font-size:26.041664123535156px;
+	letter-spacing:0;
+}
