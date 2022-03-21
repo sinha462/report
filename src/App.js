@@ -1,5 +1,4 @@
 import "./App.css";
-import Girl from "./image1.png";
 
 function App() {
   return (
